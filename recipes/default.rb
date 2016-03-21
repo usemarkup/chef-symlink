@@ -1,5 +1,5 @@
 node[:symlink].each do |source, dest|
-    link source do
-      to dest
+    link dest do
+      to source
     end
 end
