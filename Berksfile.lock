@@ -1,0 +1,7 @@
+DEPENDENCIES
+  symlink
+    path: .
+    metadata: true
+
+GRAPH
+  symlink (0.0.1)
